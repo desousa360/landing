@@ -1,0 +1,32 @@
+* Write some CSS below */
+body {
+  font-family: Overpass;
+  color: #404042;
+  font-size: 18px;
+}
+
+h1 {
+	font-family: Chivo;
+	color:rgb(220, 70, 80);
+}
+}
+h2 {
+	font-family:Silkscreen;
+	color: rgb(180, 70, 80);
+}
+P {
+	font-family: Alkami;
+	color: rgb(150, 70, 80);
+}
+h3 {
+	font-family: Noto sans Mono;
+	color: rgb(5, 70, 90);
+}
+a {
+	color: rgb(30, 60, 200);
+	font-weight: lighter;
+	text-decoration: unset;
+	transition: 2s;
+	}
+
+
